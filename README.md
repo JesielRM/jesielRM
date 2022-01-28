@@ -5,7 +5,10 @@
   <a href="https://github.com/JesielRM">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JesielRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesielRM&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img align="right" alt="Jesiel-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/4ilFRqgbzbx4c" width="448" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c">via GIPHY</a></p>?width=676&height=676">
+  <img align="right" alt="Jesiel-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/4ilFRqgbzbx4c">
+    
+   
+    
 </div>
 
 <div style="display: inline_block"><br>
