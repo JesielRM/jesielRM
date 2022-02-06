@@ -1,5 +1,5 @@
-## Hi i am Jesiel Magalhães
-- 🔭 I’m currently working on Front-end
+## Hi, i'm Jesiel Magalhães, software developer and lawyer too.
+- 🔭 I’m currently working on Front-end and mobile developer.
 
 <div align="center">
   <a href="https://github.com/JesielRM">
