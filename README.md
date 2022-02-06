@@ -1,4 +1,4 @@
-## Hi, i'm Jesiel Magalhães, software developer and lawyer too.
+## Hi, i'm Jesiel Magalhães, software developer.
 - 🔭 I’m currently working on Front-end and mobile developer.
 
 <div align="center">
